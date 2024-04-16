@@ -1,1 +1,1 @@
- This is all about setting headiong headers and footers in html
+ This is all about setting headers and footers in html
